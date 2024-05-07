@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Rachel Low Tze Ern",
+        "Position": "President",
+        "department": "President",
+        "description": "",
+        "img": "19/rachel.jpg",
+        "linkedin": "https://linkedin.com/in/rachelariellelow",
+        "batch": "19",
+        "order": 1
+    },
+    {
+        "name": "Chloe Koh Jia Wen",
+        "Position": "Vice-President",
+        "department": "Vice-President",
+        "description": "",
+        "img": "19/chloe.jpg",
+        "linkedin": "https://linkedin.com/in/chloekohjw",
+        "batch": "19",
+        "order": 2
+    },
+    {
+        "name": "Pok Jing Kai Swinnerton",
+        "Position": "Honorary General Secretary",
+        "department": "Honorary General Secretary",
+        "description": "",
+        "img": "19/POK_JING_KAI_SWINNERTON.jpeg",
+        "linkedin": "https://linkedin.com/in/swinnertonpokjingkai",
+        "batch": "19",
+        "order": 3
+    },
+    {
+        "name": "Danelle Goh Ruoqing",
+        "Position": "Honorary Finance Secretary",
+        "department": "Finance",
+        "description": "",
+        "img": "19/DANELLE_GOH_RUOQING.jpeg",
+        "linkedin": "https://linkedin.com/in/danelle-goh",
+        "batch": "19",
+        "order": 4
+    }
+]
