@@ -1,17 +1,28 @@
 import contentful_management
 import json
+import requests
 
-client = contentful_management.Client('gzhf2ey3l7ai', 'CT3w5uPMUT-cIwFpqMKq_UtbuCRyXYTPwn23QTybk_k')
-
-space = client.spaces().find('gzhf2ey3l7ai')
-
-content_type_id = 'Committee'
+client = contentful_management.Client('CFPAT-M7tSmUDH817o03pFmYK8_o_1rA_xKPlHd4avnKc7Y5E')
 
 with open('test.json') as f:
     data = json.load(f)
 
+entry_id = None
+
 for item in data:
-    fields = {
+    # image_path = item['img']  # Update with the actual path to your image file
+    # with open(image_path, 'rb') as image_file:
+    # # Upload image to Contentful
+    #     upload_response = client.uploads(
+    #         image_file
+    #     )
+    # upload_data = upload_response
+    file_or_path = item['img']  # This can also be a file-like object e.g.: `open('my_file', 'rb')`.
+    upload = client.uploads('gzhf2ey3l7ai').create(file_or_path)
+
+    entry = client.entries('gzhf2ey3l7ai', 'master').create(entry_id, {
+    'content_type_id': 'committee',
+    'fields': {
         'name': {
             'en-US': item['name']
         },
@@ -24,22 +35,25 @@ for item in data:
         'description': {
             'en-US': item['description']
         },
-        'img': {
-            'en-US': item['img']
+        'image': {
+            'en-US': {
+                    contentType: 'image/jpeg',
+                    fileName: 'test.jpg',
+                    upload: 'http://www.example.com/test.jpg'
+            }
         },
-        'linkedin': {
+        'linkedIn': {
             'en-US': item['linkedin']
         },
         'batch': {
-            'en-US': item['batch']
+            'en-US': int(item['batch'])
         },
         'order': {
             'en-US': item['order']
         }        
     }
-
+    })
     try:
-        entry = space.create_entry(content_type_id, fields)
 
         entry.publish()
 
@@ -57,9 +71,9 @@ for item in data:
 # with open('test.json') as f:
 #     data = json.load(f)
 
-# # prints out the existing entries in contentful committee memebers
-# # for item in client.entries({'content_type': 'committee'}):
-# #     print(getattr(item,'name'))
+# #prints out the existing entries in contentful committee memebers
+# for item in client.entries('gzhf2ey3l7ai', 'master', {'content_type': 'committee'}):
+#     print(getattr(item,'name'))
 
 # # prints out the json file names of committee members
 # for item in data:
