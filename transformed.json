@@ -41,7 +41,7 @@
     },
     {
         "name": "Bryan Low Chee Theng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "19/BRYAN_LOW_CHEE_THENG.jpeg",
@@ -51,7 +51,7 @@
     },
     {
         "name": "Jessica Fiore",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "19/JESSICA_FIORE.jpeg",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Koo Jie Yin",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "19/KOO_JIE_YIN_SHERRY.jpeg",
@@ -71,7 +71,7 @@
     },
     {
         "name": "Lim Cheng Kiat Aaron",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "19/LIM_CHENG_KIAT_AARON.jpeg",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Lim Ren Kee",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "19/LIM_REN_KEE.jpeg",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Tiara Maria Himawan",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "19/TIARA_MARIA_HIMAWAN.jpeg",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Keith Law Zer Kye",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "19/LAW_ZER_KYE,_KEITH.jpeg",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Vanessa Lee Xin Ni",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "19/VANESSA_LEE_XIN_NI.jpeg",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Tan Jing Zhi",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "19/TAN_JING_ZHI.jpeg",
@@ -131,7 +131,7 @@
     },
     {
         "name": "Lee Jie Ling",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "19/LEE_JIE_LING.jpeg",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Minnal K Dhayalan",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "19/MINNAL_K_DHAYALAN.jpeg",
@@ -151,7 +151,7 @@
     },
     {
         "name": "Owen Goh Heng Yi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "19/OWEN_GOH_HENG_YI.jpeg",
@@ -161,7 +161,7 @@
     },
     {
         "name": "Adrian Koh Chun Lip",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "19/ADRIAN_KOH_CHUN_LIP.jpeg",
@@ -171,7 +171,7 @@
     },
     {
         "name": "Beh Jia Yen",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "19/BEH_JIA_YEN.jpeg",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Lee Zong En, Ryan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "19/LEE_ZONG_EN,_RYAN.jpeg",
@@ -191,7 +191,7 @@
     },
     {
         "name": "Steven Tang Chung Yew",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "19/STEVEN_TANG_CHUNG_YEW.jpeg",
@@ -201,7 +201,7 @@
     },
     {
         "name": "Tiang Zi Xuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "19/TIANG_ZI_XUAN.jpeg",
@@ -211,7 +211,7 @@
     },
     {
         "name": "Thong Teck Yew",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "19/THONG_TECK_YEW.jpeg",
@@ -221,7 +221,7 @@
     },
     {
         "name": "Koh Yee Cheng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "19/KOH_YEE_CHENG.jpeg",
@@ -231,7 +231,7 @@
     },
     {
         "name": "Amrita Kokkeri",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "19/AMRITA_KOKKERI.jpeg",
@@ -241,7 +241,7 @@
     },
     {
         "name": "Sarah Chaing Wye Yarn",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "19/SARAH_CHAING_WYE_YARN.jpeg",
@@ -251,7 +251,7 @@
     },
     {
         "name": "Dexter Lim Hao Jie",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "19/DEXTER_LIM_HAO_JIE.jpeg",
@@ -261,7 +261,7 @@
     },
     {
         "name": "Clarissa Koh Shi Qi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "19/CLARISSA_KOH_SHI_QI.jpeg",
@@ -271,7 +271,7 @@
     },
     {
         "name": "Julia Villa",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "19/JULIA_VILLA.jpeg",
@@ -281,7 +281,7 @@
     },
     {
         "name": "Dylan Matthew Tan Jun",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "19/DYLAN_MATTHEW_TAN_JUN.jpeg",
@@ -291,7 +291,7 @@
     },
     {
         "name": "Victoria Santoso",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "19/FELICIA_FAUSTINA_VICTORIA_SANTOSO.jpeg",
@@ -301,7 +301,7 @@
     },
     {
         "name": "Jonathan Toh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "19/JONATHAN_TOH_JIAJUN.jpeg",
@@ -311,7 +311,7 @@
     },
     {
         "name": "Yee Jia Wei",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "19/YEE_JIA_WEI_.jpeg",
@@ -321,7 +321,7 @@
     },
     {
         "name": "Lucas Liao",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "19/LUCAS_LIAO_WEISHUN.jpeg",
@@ -331,7 +331,7 @@
     },
     {
         "name": "Pramit Shanmugababu",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "19/PRAMIT_SHANMUGABABU.jpeg",
@@ -341,7 +341,7 @@
     },
     {
         "name": "Joel Ow",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "19/JOEL_OW.jpeg",
@@ -351,7 +351,7 @@
     },
     {
         "name": "An Yu Leong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "19/LEONG_AN_YU.jpeg",
@@ -361,7 +361,7 @@
     },
     {
         "name": "Xian Xiang Chang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "19/CHANG_XIAN_XIANG.jpeg",
@@ -371,7 +371,7 @@
     },
     {
         "name": "Christian Koh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "19/CHRISTIAN_MICHAEL_KOH.jpeg",
@@ -381,7 +381,7 @@
     },
     {
         "name": "Lynette Tay",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "19/LYNETTE_JEAN_TAY.jpeg",
@@ -391,7 +391,7 @@
     },
     {
         "name": "Ansel Tan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "19/ANSEL_BRYCE_TAN_JUN_YING.jpeg",
@@ -401,7 +401,7 @@
     },
     {
         "name": "Anthea Chua",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "19/ANTHEA_CHUA_XINYI.jpeg",
@@ -411,7 +411,7 @@
     },
     {
         "name": "Yi Xuan Chan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "19/CHAN_YI_XUAN.jpeg",
@@ -461,7 +461,7 @@
     },
     {
         "name": "Jasmine Lim Jia Yi",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "18/Jasmine-edited.png",
@@ -471,7 +471,7 @@
     },
     {
         "name": "Lim Yu Xuan",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "18/Yuxuan_edited.png",
@@ -481,7 +481,7 @@
     },
     {
         "name": "Nicole Seah Li Min",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "18/Nicole_edited.png",
@@ -491,7 +491,7 @@
     },
     {
         "name": "Goh Soon Hao",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "18/Soon_Hao-edited.png",
@@ -501,7 +501,7 @@
     },
     {
         "name": "Sanchana",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "18/Sanchana_edited.png",
@@ -511,7 +511,7 @@
     },
     {
         "name": "Cheah King Yeh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "18/King_Yeh_edited.png",
@@ -521,7 +521,7 @@
     },
     {
         "name": "Arthur Hain",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "18/Arthur-edited.png",
@@ -531,7 +531,7 @@
     },
     {
         "name": "Tan Yeo Shi Lee",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "18/Yeo_Shi-edited.png",
@@ -541,7 +541,7 @@
     },
     {
         "name": "Jonathan Chua Zhi Hao",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "18/Jonathan_edited.png",
@@ -551,7 +551,7 @@
     },
     {
         "name": "Han Ke Tong, Yuki",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "18/Yuki_edited.png",
@@ -561,7 +561,7 @@
     },
     {
         "name": "How Sheen Yii Alison",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "18/Alison_Edited.png",
@@ -571,7 +571,7 @@
     },
     {
         "name": "Low Tze Ern Rachel",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "18/Rachel-edited.png",
@@ -581,7 +581,7 @@
     },
     {
         "name": "Chia De Han",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "18/De_Han-edited.png",
@@ -591,7 +591,7 @@
     },
     {
         "name": "Vanessa Lee Xin Ni",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "18/Vanessa-edited.png",
@@ -601,7 +601,7 @@
     },
     {
         "name": "Xu Xinhui",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "18/Xin_Hui-edited.png",
@@ -611,7 +611,7 @@
     },
     {
         "name": "Eunice Chew",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "18/Eunice_edited.png",
@@ -621,7 +621,7 @@
     },
     {
         "name": "Lian Hee Hsien Zachary",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "18/Zachary-edited.png",
@@ -631,7 +631,7 @@
     },
     {
         "name": "Tan Yi Xuan, Michelle",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "18/Michelle-edited.png",
@@ -641,7 +641,7 @@
     },
     {
         "name": "Law Zer Kye, Keith",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "18/Keith_edited.png",
@@ -651,7 +651,7 @@
     },
     {
         "name": "Jalaluddin Bin Selamat",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "18/Jalaluddin-edited.png",
@@ -661,7 +661,7 @@
     },
     {
         "name": "Lim Cheng Kiat Aaron",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "18/Aaron-edited.png",
@@ -671,7 +671,7 @@
     },
     {
         "name": "Tan Chi Yong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "18/Chi_Yong-edited.png",
@@ -681,7 +681,7 @@
     },
     {
         "name": "Kyla Sim",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "18/Kyla-edited.png",
@@ -691,7 +691,7 @@
     },
     {
         "name": "Laetitia Hong Jae-ee",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "18/Laetitia-edited.png",
@@ -701,7 +701,7 @@
     },
     {
         "name": "Pok Jing Kai Swinnerton ",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "18/Swinnerton-edited.png",
@@ -711,7 +711,7 @@
     },
     {
         "name": "Shen Qin",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "18/Shen_Qin_Edited.png",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Ang Wei Sheng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "18/Wei_Sheng-edited.png",
@@ -731,7 +731,7 @@
     },
     {
         "name": "Minnal K Dhayalan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "18/Minnal-edited.png",
@@ -741,7 +741,7 @@
     },
     {
         "name": "Lee Jie Ling",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "18/Jie_Ling_edited.png",
@@ -751,7 +751,7 @@
     },
     {
         "name": "Omer @ Wai Yan Oo",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "18/Omer-edited.png",
@@ -761,7 +761,7 @@
     },
     {
         "name": "Tan Jing Zhi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "18/Jing_Zhi_edited.png",
@@ -771,7 +771,7 @@
     },
     {
         "name": "Yan Jiaxing",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "18/Jia_Xing-edited.png",
@@ -781,7 +781,7 @@
     },
     {
         "name": "Jesleen Kaur Takhar",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "18/Jesleen-edited.png",
@@ -791,7 +791,7 @@
     },
     {
         "name": "Tiara Maria Himawan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "18/Tiara-edited.png",
@@ -801,7 +801,7 @@
     },
     {
         "name": "Wong Zheng Da",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "18/Zheng_Da-edited.png",
@@ -811,7 +811,7 @@
     },
     {
         "name": "Koh Jia Wen, Chloe",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "18/Chloe-edited.png",
@@ -861,7 +861,7 @@
     },
     {
         "name": "Jonathan Lock",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "17/jonwhitepassport.png",
@@ -871,7 +871,7 @@
     },
     {
         "name": "Jasmine Teoh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "17/jasminewhitepassport.png",
@@ -881,7 +881,7 @@
     },
     {
         "name": "Sheryll Ng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "17/sheryllwhitepassport.png",
@@ -891,7 +891,7 @@
     },
     {
         "name": "Lee Yi Hao",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "17/yihaowhitepassport.png",
@@ -901,7 +901,7 @@
     },
     {
         "name": "Damian Ng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "17/damianwhitepassport.png",
@@ -911,7 +911,7 @@
     },
     {
         "name": "Ng Ying Ting",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "17/yingtingwhitepassport.png",
@@ -921,7 +921,7 @@
     },
     {
         "name": "Jocasta Heng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "17/jocastawhitepassport.png",
@@ -931,7 +931,7 @@
     },
     {
         "name": "Jessie Ng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "17/jessiewhitepassport.png",
@@ -941,7 +941,7 @@
     },
     {
         "name": "Charles Lim",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "17/charleslimwhitepassport.png",
@@ -951,7 +951,7 @@
     },
     {
         "name": "Prathima",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "17/prathimawhitepassport.png",
@@ -961,7 +961,7 @@
     },
     {
         "name": "Chua Kai Wei",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "17/kaiweiwhitepassport.png",
@@ -971,7 +971,7 @@
     },
     {
         "name": "Neo Fang Ting",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "17/fangtingwhitepassport.png",
@@ -981,7 +981,7 @@
     },
     {
         "name": "Huang Jing Yi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "17/jingyiwhitepassport.png",
@@ -991,7 +991,7 @@
     },
     {
         "name": "Nikki Chua",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "17/nikkiwhitepassport.png",
@@ -1001,7 +1001,7 @@
     },
     {
         "name": "Lee Xin Yi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "17/xinyiwhitepassport.png",
@@ -1011,7 +1011,7 @@
     },
     {
         "name": "Felice Png",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "17/felicewhitepassport.png",
@@ -1021,7 +1021,7 @@
     },
     {
         "name": "Yuki Han",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "17/yukiwhitepassport.png",
@@ -1031,7 +1031,7 @@
     },
     {
         "name": "Lee Xiao Tong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "17/celestewhitepassport.png",
@@ -1041,7 +1041,7 @@
     },
     {
         "name": "Amanda Soh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "17/amandawhitepassport.png",
@@ -1051,7 +1051,7 @@
     },
     {
         "name": "Yong Woon Hao",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "17/woonhaowhitepassport.png",
@@ -1061,7 +1061,7 @@
     },
     {
         "name": "Low Shu Ling",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "17/shulingwhitepassport.png",
@@ -1071,7 +1071,7 @@
     },
     {
         "name": "Esther Loh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "17/estherwhitepassport.png",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "Aimee Alexandra Jung",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "17/aimeewhitepassport.png",
@@ -1091,7 +1091,7 @@
     },
     {
         "name": "Koh Hui Qing",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "17/huiqingwhitepassport.png",
@@ -1101,7 +1101,7 @@
     },
     {
         "name": "Sanchana",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "17/sanchanawhitepassport.png",
@@ -1111,7 +1111,7 @@
     },
     {
         "name": "Cheah King Yeh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "17/kingyehwhitepassport.png",
@@ -1121,7 +1121,7 @@
     },
     {
         "name": "Justin Cheu",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "17/justinwhitepassport.png",
@@ -1131,7 +1131,7 @@
     },
     {
         "name": "Charles Yap",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "17/charlesyapwhitepassport.png",
@@ -1141,7 +1141,7 @@
     },
     {
         "name": "Hein Htet Oo",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "17/heinwhitepassport.png",
@@ -1151,7 +1151,7 @@
     },
     {
         "name": "Eng Siang Teo",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "17/engsiangwhitepassport.png",
@@ -1161,7 +1161,7 @@
     },
     {
         "name": "Goh Wen Liang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "17/wenliangwhitepassport.png",
@@ -1171,7 +1171,7 @@
     },
     {
         "name": "Ng Shen Jie",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "17/shenjiewhitepassport.png",
@@ -1181,7 +1181,7 @@
     },
     {
         "name": "Fok Jia Yi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "17/jiayiwhitepassport.png",
@@ -1191,7 +1191,7 @@
     },
     {
         "name": "Joel Lim",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "17/joelwhitepassport.png",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Sherrill Tan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "17/sherrillwhitepassport.png",
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "Chan King Son",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "17/kingsonwhitepassport.png",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "Tay Qi Jin",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "16/0247_Qi_Jin_white.jpg",
@@ -1271,7 +1271,7 @@
     },
     {
         "name": "Bryan Chin",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "16/0218_Bryan_Chin_white.jpg",
@@ -1281,7 +1281,7 @@
     },
     {
         "name": "Charis Koh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "16/0412_Charis_white.jpg",
@@ -1291,7 +1291,7 @@
     },
     {
         "name": "Soh Ze Yu",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "16/0180_Ze_Yu_white.jpg",
@@ -1301,7 +1301,7 @@
     },
     {
         "name": "Lee Sean Jin",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "16/0201_Sean_Jin_white.jpg",
@@ -1311,7 +1311,7 @@
     },
     {
         "name": "Quok Juin",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "16/0185_Juin_white.jpg",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Chester Ong",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "16/0209_Chester_white.jpg",
@@ -1331,7 +1331,7 @@
     },
     {
         "name": "Glen See",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "16/0417_Glen_white.jpg",
@@ -1341,7 +1341,7 @@
     },
     {
         "name": "Wong Xin Wei",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "16/0323_Xin_Wei_white.jpg",
@@ -1351,7 +1351,7 @@
     },
     {
         "name": "Faith Eng",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "16/0369_Faith_white.jpg",
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "Toh Wei Xiang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "16/0262_Wei_Xiang_white.jpg",
@@ -1371,7 +1371,7 @@
     },
     {
         "name": "Hindun",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "16/0251_Hindun_white.jpg",
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "Janvi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "16/0255_Janvi_white.jpg",
@@ -1391,7 +1391,7 @@
     },
     {
         "name": "Lim Yin Shan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "16/0241_Yin_Shan_white.jpg",
@@ -1401,7 +1401,7 @@
     },
     {
         "name": "Rachel Tan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "16/0243_Rachel_white.jpg",
@@ -1411,7 +1411,7 @@
     },
     {
         "name": "Jocasta Heng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "16/0407_Jocasta_white.jpg",
@@ -1421,7 +1421,7 @@
     },
     {
         "name": "Marcus Soh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "16/0205_Marcus_white.jpg",
@@ -1431,7 +1431,7 @@
     },
     {
         "name": "Sheryll Ng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "16/0401_Sheryll_white.jpg",
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "Bryan Lee",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "16/0422_Bryan_white.jpg",
@@ -1451,7 +1451,7 @@
     },
     {
         "name": "Hong Li Xuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "16/0341_Li_Xuan_white.jpg",
@@ -1461,7 +1461,7 @@
     },
     {
         "name": "Jonathan Lock",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "16/0352_Jonathan_white.jpg",
@@ -1471,7 +1471,7 @@
     },
     {
         "name": "Sean Tan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "16/0331_Sean_white.jpg",
@@ -1481,7 +1481,7 @@
     },
     {
         "name": "Chua Xiu Ling",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "16/0213_Xiu_Ling_White.jpg",
@@ -1491,7 +1491,7 @@
     },
     {
         "name": "Damian Ng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "16/0222_Damian_white.jpg",
@@ -1501,7 +1501,7 @@
     },
     {
         "name": "Ong Jia Le",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "16/0178_Jia_Le_white.jpg",
@@ -1511,7 +1511,7 @@
     },
     {
         "name": "Sebastin Goh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "16/0194_Sebastin_white.jpg",
@@ -1521,7 +1521,7 @@
     },
     {
         "name": "Prathima",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "16/0396_Prathima_white.jpg",
@@ -1531,7 +1531,7 @@
     },
     {
         "name": "Jasmine See",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "16/0392_Jasmine_white.jpg",
@@ -1541,7 +1541,7 @@
     },
     {
         "name": "Ng Sam Yuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "16/0295_Sam_white.jpg",
@@ -1551,7 +1551,7 @@
     },
     {
         "name": "Teo Nian Kai",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "16/0375_Nian_Kai_white.jpg",
@@ -1561,7 +1561,7 @@
     },
     {
         "name": "Lance Fu",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "16/0308_Lance_white.jpg",
@@ -1571,7 +1571,7 @@
     },
     {
         "name": "Ian Leong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "16/0317_Ian_white.jpg",
@@ -1581,7 +1581,7 @@
     },
     {
         "name": "Jack Phan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "16/0380_Jack_white.jpg",
@@ -1591,7 +1591,7 @@
     },
     {
         "name": "Thiam Zi Hui",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "16/0271_Pearlyn_white.jpg",
@@ -1601,7 +1601,7 @@
     },
     {
         "name": "Ong Cheng Hong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "16/0265_Cheng_Hong_white.jpg",
@@ -1611,7 +1611,7 @@
     },
     {
         "name": "Gladys Tan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "16/0281_Gladys_white.jpg",
@@ -1661,7 +1661,7 @@
     },
     {
         "name": "Areeba",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "15/areeba-01.jpg",
@@ -1671,7 +1671,7 @@
     },
     {
         "name": "Benedict Then",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "15/ben-01.jpg",
@@ -1681,7 +1681,7 @@
     },
     {
         "name": "Lu Yun Jing Ada",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "15/ada-01.jpg",
@@ -1691,7 +1691,7 @@
     },
     {
         "name": "Ong Qian Ling",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "15/qianling-01.jpg",
@@ -1701,7 +1701,7 @@
     },
     {
         "name": "Lin Zheng Heng Leon",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "15/leon-01.jpg",
@@ -1711,7 +1711,7 @@
     },
     {
         "name": "Ngoh Yi Long",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "15/yilong-01.jpg",
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "Danston Goh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "15/danston-01.jpg",
@@ -1731,7 +1731,7 @@
     },
     {
         "name": "Sean Kwek Si Wei",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "15/sean-01.jpg",
@@ -1741,7 +1741,7 @@
     },
     {
         "name": "Toh Jin Wee Wayne",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "15/wayne-01.jpg",
@@ -1751,7 +1751,7 @@
     },
     {
         "name": "Lim Cong Hao Darren",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "15/darren-01.jpg",
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "Tan Li Xuan, Denyse",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "15/denyse-01.jpg",
@@ -1771,7 +1771,7 @@
     },
     {
         "name": "Jess Ng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Finance",
         "description": "",
         "img": "15/jess-01.jpg",
@@ -1781,7 +1781,7 @@
     },
     {
         "name": "Ryan Yeo Jun Wei",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "15/ryan-01.jpg",
@@ -1791,7 +1791,7 @@
     },
     {
         "name": "Tan Si Lei Sherry",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "15/sherry-01.jpg",
@@ -1801,7 +1801,7 @@
     },
     {
         "name": "Tu Yang Lin",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "15/yanglin-01.jpg",
@@ -1811,7 +1811,7 @@
     },
     {
         "name": "Bryan Chin Jun Kit",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "15/bryan-01.jpg",
@@ -1821,7 +1821,7 @@
     },
     {
         "name": "Peng You Xuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "15/youxuan-01.jpg",
@@ -1831,7 +1831,7 @@
     },
     {
         "name": "Tan Min Xian Krystal",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "15/krystal-01.jpg",
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Fan Yixi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "15/yixi-01.jpg",
@@ -1851,7 +1851,7 @@
     },
     {
         "name": "Soh Ze Yu",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "15/zeyu-01.jpg",
@@ -1861,7 +1861,7 @@
     },
     {
         "name": "Qu Wenrui",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "15/wenrui-01.jpg",
@@ -1871,7 +1871,7 @@
     },
     {
         "name": "Shafeeka Rahama",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "15/shafeeka-01.jpg",
@@ -1881,7 +1881,7 @@
     },
     {
         "name": "Lim Zi Yuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "15/limzy-01.jpg",
@@ -1891,7 +1891,7 @@
     },
     {
         "name": "Faith Eng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "15/faith-01.jpg",
@@ -1901,7 +1901,7 @@
     },
     {
         "name": "Lim Jia Yang James",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "15/james-01.jpg",
@@ -1911,7 +1911,7 @@
     },
     {
         "name": "Kong Yi Ru, Kaelyn",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "15/kaelyn-01.jpg",
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "Khoo Khim Boon Ernest",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "15/ernest-01.jpg",
@@ -1931,7 +1931,7 @@
     },
     {
         "name": "Charis Koh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relation",
         "description": "",
         "img": "15/charis-01.jpg",
@@ -1941,7 +1941,7 @@
     },
     {
         "name": "Kee Cheng Heng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "15/chengheng-01.jpg",
@@ -1951,7 +1951,7 @@
     },
     {
         "name": "Zen Tan Hong Wee",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "15/zen-01.jpg",
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Jermyn Yeo Wenhui",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "15/jermyn-01.jpg",
@@ -1971,7 +1971,7 @@
     },
     {
         "name": "Sheryee Lok",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "15/sheryee-01.jpg",
@@ -1981,7 +1981,7 @@
     },
     {
         "name": "Lee Sean Jin",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "15/seanjin-01.jpg",
@@ -2021,7 +2021,7 @@
     },
     {
         "name": "Debbie Lee",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "14/debbie.jpg",
@@ -2041,7 +2041,7 @@
     },
     {
         "name": "Ker Wei Xiang",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "14/weixiang.jpg",
@@ -2051,7 +2051,7 @@
     },
     {
         "name": "Teo Wei Song",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "14/weisong.jpg",
@@ -2061,7 +2061,7 @@
     },
     {
         "name": "Ragini Verma",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "14/ragini.jpg",
@@ -2071,7 +2071,7 @@
     },
     {
         "name": "Xue Xinyi",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "14/xinyi.jpg",
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Sheryl Yeo",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "14/sheryl.jpg",
@@ -2091,7 +2091,7 @@
     },
     {
         "name": "Joel Tay",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "14/joel.jpg",
@@ -2101,7 +2101,7 @@
     },
     {
         "name": "Adrian How",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "14/adrian.jpg",
@@ -2111,7 +2111,7 @@
     },
     {
         "name": "Asher Chua Yee Liang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "14/asher.jpg",
@@ -2121,7 +2121,7 @@
     },
     {
         "name": "Danston Goh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "14/danston.jpg",
@@ -2131,7 +2131,7 @@
     },
     {
         "name": "Loh Yu Bin",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "14/tommy.jpg",
@@ -2141,7 +2141,7 @@
     },
     {
         "name": "Natalie Lim Jing Ting",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "14/natalie.jpg",
@@ -2151,7 +2151,7 @@
     },
     {
         "name": "Chu Yi Xuan Vinnie",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "14/vinnie.jpg",
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "Shawn Lee Min Hwee",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "14/shawn.jpg",
@@ -2171,7 +2171,7 @@
     },
     {
         "name": "Tan Lin Ming",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "14/linming.jpg",
@@ -2181,7 +2181,7 @@
     },
     {
         "name": "Sim Cher Boon",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "14/cherboon.jpg",
@@ -2191,7 +2191,7 @@
     },
     {
         "name": "Tang Zefang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "14/zefang.jpg",
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "Benedict Then",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "14/benedict.jpg",
@@ -2211,7 +2211,7 @@
     },
     {
         "name": "James Edward Teoh",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "14/james.jpg",
@@ -2221,7 +2221,7 @@
     },
     {
         "name": "Ng Lee Ning",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "14/leening.jpg",
@@ -2231,7 +2231,7 @@
     },
     {
         "name": "Joel-David Wong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "14/joeldavid.jpg",
@@ -2241,7 +2241,7 @@
     },
     {
         "name": "Tan Hui Rong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "14/lou.jpg",
@@ -2251,7 +2251,7 @@
     },
     {
         "name": "Celine Tan Kai Yun",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "14/celine.jpg",
@@ -2261,7 +2261,7 @@
     },
     {
         "name": "Jazreel Tho Wei Wen",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "14/jazreel.jpg",
@@ -2271,7 +2271,7 @@
     },
     {
         "name": "Lu Yun Jing Ada",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "14/ada.jpg",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Areeba Khan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "14/areeba.jpg",
@@ -2291,7 +2291,7 @@
     },
     {
         "name": "Lim Cong Hao Darren",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "14/darren.jpg",
@@ -2301,7 +2301,7 @@
     },
     {
         "name": "Lionel Ng Ze Ji",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "14/lionel.jpg",
@@ -2341,7 +2341,7 @@
     },
     {
         "name": "Jonathan Chew",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "13/jonchew.jpg",
@@ -2351,7 +2351,7 @@
     },
     {
         "name": "Amber Chong",
-        "position": "Director",
+        "Position": "Director",
         "department": "Public Relations",
         "description": "",
         "img": "13/amber.jpg",
@@ -2371,7 +2371,7 @@
     },
     {
         "name": "Tan Kee Hock",
-        "position": "Director",
+        "Position": "Director",
         "department": "Technology",
         "description": "",
         "img": "13/keehock.jpg",
@@ -2381,7 +2381,7 @@
     },
     {
         "name": "Lau Zi Quan",
-        "position": "Director",
+        "Position": "Director",
         "department": "Operations",
         "description": "",
         "img": "13/ziquan.jpg",
@@ -2391,7 +2391,7 @@
     },
     {
         "name": "Koh Xiao Wei",
-        "position": "Director",
+        "Position": "Director",
         "department": "Welfare",
         "description": "",
         "img": "13/xiaowei.jpg",
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "Celestine Kho",
-        "position": "Director",
+        "Position": "Director",
         "department": "Professional Development",
         "description": "",
         "img": "13/celes.jpg",
@@ -2411,7 +2411,7 @@
     },
     {
         "name": "Fan Kai Yang",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "13/kaiyang.jpg",
@@ -2421,7 +2421,7 @@
     },
     {
         "name": "Jeryl Soh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Marketing",
         "description": "",
         "img": "13/jeryl.jpg",
@@ -2431,7 +2431,7 @@
     },
     {
         "name": "Manfred Loh",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "13/manfred.jpg",
@@ -2441,7 +2441,7 @@
     },
     {
         "name": "Amanda Lim",
-        "position": "Director",
+        "Position": "Director",
         "department": "Events",
         "description": "",
         "img": "13/amandalim.jpg",
@@ -2451,7 +2451,7 @@
     },
     {
         "name": "Tay Yan Min",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Honorary General Secretary",
         "description": "",
         "img": "13/yanming.jpg",
@@ -2461,7 +2461,7 @@
     },
     {
         "name": "Shaun Teo Ray Sen",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "13/shaun.jpg",
@@ -2471,7 +2471,7 @@
     },
     {
         "name": "Debbie Lee Shan Ying",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "13/debbie.jpg",
@@ -2481,7 +2481,7 @@
     },
     {
         "name": "Dion Goh Chin Bin",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Public Relations",
         "description": "",
         "img": "13/dion.jpg",
@@ -2491,7 +2491,7 @@
     },
     {
         "name": "Goh Jin Qiang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "13/jq.jpg",
@@ -2501,7 +2501,7 @@
     },
     {
         "name": "Xue Xin Yi",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Professional Development",
         "description": "",
         "img": "13/xingyi.jpg",
@@ -2511,7 +2511,7 @@
     },
     {
         "name": "Chan Huang Suan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "13/hs.jpg",
@@ -2521,7 +2521,7 @@
     },
     {
         "name": "Tay Yu Xuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Operations",
         "description": "",
         "img": "13/yuxuan.jpg",
@@ -2531,7 +2531,7 @@
     },
     {
         "name": "Lim Jia Sheng",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "13/jiasheng.jpg",
@@ -2541,7 +2541,7 @@
     },
     {
         "name": "Agnes Lim Jia Hui",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "13/agnes.jpg",
@@ -2551,7 +2551,7 @@
     },
     {
         "name": "Goh Ming Xuan",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Welfare",
         "description": "",
         "img": "13/mingxuan.jpg",
@@ -2561,7 +2561,7 @@
     },
     {
         "name": "Toh Hong Ren",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "13/hongren.jpg",
@@ -2571,7 +2571,7 @@
     },
     {
         "name": "Ker Wei Xiang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Technology",
         "description": "",
         "img": "13/weixiang.jpg",
@@ -2581,7 +2581,7 @@
     },
     {
         "name": "Amanda Yeong",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "13/amandayeong.jpg",
@@ -2591,7 +2591,7 @@
     },
     {
         "name": "Brandon Kang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "13/brandon.jpg",
@@ -2601,7 +2601,7 @@
     },
     {
         "name": "Gan Shen Ying",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Marketing",
         "description": "",
         "img": "13/shenying.jpg",
@@ -2611,7 +2611,7 @@
     },
     {
         "name": "Li Xiaohang",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "13/xiaohang.jpg",
@@ -2621,7 +2621,7 @@
     },
     {
         "name": "Ragini Verma",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "13/raigni.jpg",
@@ -2631,7 +2631,7 @@
     },
     {
         "name": "Joel Tay",
-        "position": "Executive",
+        "Position": "Executive",
         "department": "Events",
         "description": "",
         "img": "13/joel.jpg",

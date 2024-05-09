@@ -1,12 +1,332 @@
 [
     {
-        "name": "banana",
+        "name": "Tan Chang Sheng",
         "Position": "President",
         "department": "President",
         "description": "",
-        "img": "19/rachel.jpg",
-        "linkedin": "https://linkedin.com/in/rachelariellelow",
-        "batch": "29",
+        "img": "13/changsheng.jpg",
+        "linkedin": "https://linkedin.com/in/TANChangSheng",
+        "batch": "13",
         "order": 1
+    },
+    {
+        "name": "Zul Yang Guo Qiang",
+        "Position": "Vice-President",
+        "department": "Vice-President",
+        "description": "",
+        "img": "13/zul.jpg",
+        "linkedin": "https://linkedin.com/in/zulyang",
+        "batch": "13",
+        "order": 2
+    },
+    {
+        "name": "Mark Ng",
+        "Position": "Honorary General Secretary",
+        "department": "Honorary General Secretary",
+        "description": "",
+        "img": "13/mark.jpg",
+        "linkedin": "https://linkedin.com/in/",
+        "batch": "13",
+        "order": 3
+    },
+    {
+        "name": "Jonathan Chew",
+        "Position": "Director",
+        "department": "Public Relations",
+        "description": "",
+        "img": "13/jonchew.jpg",
+        "linkedin": "https://linkedin.com/in/jonchew482",
+        "batch": "13",
+        "order": 4
+    },
+    {
+        "name": "Amber Chong",
+        "Position": "Director",
+        "department": "Public Relations",
+        "description": "",
+        "img": "13/amber.jpg",
+        "linkedin": "https://linkedin.com/in/ambercjq",
+        "batch": "13",
+        "order": 5
+    },
+    {
+        "name": "Marcus Lee",
+        "Position": "Honorary Finance Secretary",
+        "department": "Finance",
+        "description": "",
+        "img": "13/marcus.jpg",
+        "linkedin": "https://linkedin.com/in/marcuslsw",
+        "batch": "13",
+        "order": 6
+    },
+    {
+        "name": "Tan Kee Hock",
+        "Position": "Director",
+        "department": "Technology",
+        "description": "",
+        "img": "13/keehock.jpg",
+        "linkedin": "https://linkedin.com/in/tankeehock",
+        "batch": "13",
+        "order": 7
+    },
+    {
+        "name": "Lau Zi Quan",
+        "Position": "Director",
+        "department": "Operations",
+        "description": "",
+        "img": "13/ziquan.jpg",
+        "linkedin": "https://linkedin.com/in/lauziquan",
+        "batch": "13",
+        "order": 8
+    },
+    {
+        "name": "Koh Xiao Wei",
+        "Position": "Director",
+        "department": "Welfare",
+        "description": "",
+        "img": "13/xiaowei.jpg",
+        "linkedin": "https://linkedin.com/in/xiaoweikoh",
+        "batch": "13",
+        "order": 9
+    },
+    {
+        "name": "Celestine Kho",
+        "Position": "Director",
+        "department": "Professional Development",
+        "description": "",
+        "img": "13/celes.jpg",
+        "linkedin": "https://linkedin.com/in/celestinekho",
+        "batch": "13",
+        "order": 10
+    },
+    {
+        "name": "Fan Kai Yang",
+        "Position": "Director",
+        "department": "Marketing",
+        "description": "",
+        "img": "13/kaiyang.jpg",
+        "linkedin": "https://linkedin.com/in/kaiyang-fan",
+        "batch": "13",
+        "order": 11
+    },
+    {
+        "name": "Jeryl Soh",
+        "Position": "Director",
+        "department": "Marketing",
+        "description": "",
+        "img": "13/jeryl.jpg",
+        "linkedin": "https://linkedin.com/in/jerylsoh",
+        "batch": "13",
+        "order": 12
+    },
+    {
+        "name": "Manfred Loh",
+        "Position": "Director",
+        "department": "Events",
+        "description": "",
+        "img": "13/manfred.jpg",
+        "linkedin": "https://linkedin.com/in/manfredloh",
+        "batch": "13",
+        "order": 13
+    },
+    {
+        "name": "Amanda Lim",
+        "Position": "Director",
+        "department": "Events",
+        "description": "",
+        "img": "13/amandalim.jpg",
+        "linkedin": "https://linkedin.com/in/amandalimxinyi",
+        "batch": "13",
+        "order": 14
+    },
+    {
+        "name": "Tay Yan Min",
+        "Position": "Executive",
+        "department": "Honorary General Secretary",
+        "description": "",
+        "img": "13/yanming.jpg",
+        "linkedin": "https://linkedin.com/in/tay-yanmin",
+        "batch": "13",
+        "order": 15
+    },
+    {
+        "name": "Shaun Teo Ray Sen",
+        "Position": "Executive",
+        "department": "Public Relations",
+        "description": "",
+        "img": "13/shaun.jpg",
+        "linkedin": "https://linkedin.com/in/",
+        "batch": "13",
+        "order": 16
+    },
+    {
+        "name": "Debbie Lee Shan Ying",
+        "Position": "Executive",
+        "department": "Public Relations",
+        "description": "",
+        "img": "13/debbie.jpg",
+        "linkedin": "https://linkedin.com/in/",
+        "batch": "13",
+        "order": 17
+    },
+    {
+        "name": "Dion Goh Chin Bin",
+        "Position": "Executive",
+        "department": "Public Relations",
+        "description": "",
+        "img": "13/dion.jpg",
+        "linkedin": "https://linkedin.com/in/goh-chin-bin-dion-56ba91125",
+        "batch": "13",
+        "order": 18
+    },
+    {
+        "name": "Goh Jin Qiang",
+        "Position": "Executive",
+        "department": "Professional Development",
+        "description": "",
+        "img": "13/jq.jpg",
+        "linkedin": "https://linkedin.com/in/jinqiang-goh",
+        "batch": "13",
+        "order": 19
+    },
+    {
+        "name": "Xue Xin Yi",
+        "Position": "Executive",
+        "department": "Professional Development",
+        "description": "",
+        "img": "13/xingyi.jpg",
+        "linkedin": "https://linkedin.com/in/xue-xinyi",
+        "batch": "13",
+        "order": 20
+    },
+    {
+        "name": "Chan Huang Suan",
+        "Position": "Executive",
+        "department": "Operations",
+        "description": "",
+        "img": "13/hs.jpg",
+        "linkedin": "https://linkedin.com/in/",
+        "batch": "13",
+        "order": 21
+    },
+    {
+        "name": "Tay Yu Xuan",
+        "Position": "Executive",
+        "department": "Operations",
+        "description": "",
+        "img": "13/yuxuan.jpg",
+        "linkedin": "https://linkedin.com/in/",
+        "batch": "13",
+        "order": 22
+    },
+    {
+        "name": "Lim Jia Sheng",
+        "Position": "Executive",
+        "department": "Welfare",
+        "description": "",
+        "img": "13/jiasheng.jpg",
+        "linkedin": "https://linkedin.com/in/jiashenglim",
+        "batch": "13",
+        "order": 23
+    },
+    {
+        "name": "Agnes Lim Jia Hui",
+        "Position": "Executive",
+        "department": "Welfare",
+        "description": "",
+        "img": "13/agnes.jpg",
+        "linkedin": "https://linkedin.com/in/agnesljh",
+        "batch": "13",
+        "order": 24
+    },
+    {
+        "name": "Goh Ming Xuan",
+        "Position": "Executive",
+        "department": "Welfare",
+        "description": "",
+        "img": "13/mingxuan.jpg",
+        "linkedin": "https://linkedin.com/in/mingxuan",
+        "batch": "13",
+        "order": 25
+    },
+    {
+        "name": "Toh Hong Ren",
+        "Position": "Executive",
+        "department": "Technology",
+        "description": "",
+        "img": "13/hongren.jpg",
+        "linkedin": "https://linkedin.com/in/hongrentoh",
+        "batch": "13",
+        "order": 26
+    },
+    {
+        "name": "Ker Wei Xiang",
+        "Position": "Executive",
+        "department": "Technology",
+        "description": "",
+        "img": "13/weixiang.jpg",
+        "linkedin": "https://linkedin.com/in/ker-wei-xiang",
+        "batch": "13",
+        "order": 27
+    },
+    {
+        "name": "Amanda Yeong",
+        "Position": "Executive",
+        "department": "Marketing",
+        "description": "",
+        "img": "13/amandayeong.jpg",
+        "linkedin": "https://linkedin.com/in/amandaysm",
+        "batch": "13",
+        "order": 28
+    },
+    {
+        "name": "Brandon Kang",
+        "Position": "Executive",
+        "department": "Marketing",
+        "description": "",
+        "img": "13/brandon.jpg",
+        "linkedin": "https://linkedin.com/in/brandon-kang-jh",
+        "batch": "13",
+        "order": 29
+    },
+    {
+        "name": "Gan Shen Ying",
+        "Position": "Executive",
+        "department": "Marketing",
+        "description": "",
+        "img": "13/shenying.jpg",
+        "linkedin": "https://linkedin.com/in/shenyinggan",
+        "batch": "13",
+        "order": 30
+    },
+    {
+        "name": "Li Xiaohang",
+        "Position": "Executive",
+        "department": "Events",
+        "description": "",
+        "img": "13/xiaohang.jpg",
+        "linkedin": "https://linkedin.com/in/xiaohang1996",
+        "batch": "13",
+        "order": 31
+    },
+    {
+        "name": "Ragini Verma",
+        "Position": "Executive",
+        "department": "Events",
+        "description": "",
+        "img": "13/raigni.jpg",
+        "linkedin": "https://linkedin.com/in/raginiverma",
+        "batch": "13",
+        "order": 32
+    },
+    {
+        "name": "Joel Tay",
+        "Position": "Executive",
+        "department": "Events",
+        "description": "",
+        "img": "13/joel.jpg",
+        "linkedin": "https://linkedin.com/in/joel-tay-da-yuan",
+        "batch": "13",
+        "order": 33
     }
 ]

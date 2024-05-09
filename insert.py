@@ -1,6 +1,5 @@
 import contentful_management
 import json
-import requests
 
 client = contentful_management.Client('CFPAT-M7tSmUDH817o03pFmYK8_o_1rA_xKPlHd4avnKc7Y5E')
 
@@ -8,18 +7,30 @@ with open('test.json') as f:
     data = json.load(f)
 
 entry_id = None
+asset_id = None
 
 for item in data:
-    # image_path = item['img']  # Update with the actual path to your image file
-    # with open(image_path, 'rb') as image_file:
-    # # Upload image to Contentful
-    #     upload_response = client.uploads(
-    #         image_file
-    #     )
-    # upload_data = upload_response
-    file_or_path = item['img']  # This can also be a file-like object e.g.: `open('my_file', 'rb')`.
-    upload = client.uploads('gzhf2ey3l7ai').create(file_or_path)
 
+    file = item['img']
+    upload = client.uploads('gzhf2ey3l7ai').create('C:/Users/ernes/Documents/GitHub/insert-to-CMS/'+file)
+
+    asset = client.assets('gzhf2ey3l7ai', 'master').create(asset_id, {
+    'fields': {
+        'title': {
+            'en-US': item['name']
+        },
+        'file': {
+            'en-US': {
+                'fileName': file,
+                'contentType': 'image/'+file.split(".")[1],
+                'uploadFrom': upload.to_link().to_json()
+                }
+            }
+        }
+    })
+    asset = asset.process()
+    print(upload.to_link().to_json())
+    
     entry = client.entries('gzhf2ey3l7ai', 'master').create(entry_id, {
     'content_type_id': 'committee',
     'fields': {
@@ -36,11 +47,7 @@ for item in data:
             'en-US': item['description']
         },
         'image': {
-            'en-US': {
-                    contentType: 'image/jpeg',
-                    fileName: 'test.jpg',
-                    upload: 'http://www.example.com/test.jpg'
-            }
+            'en-US': asset.to_link().to_json()
         },
         'linkedIn': {
             'en-US': item['linkedin']
@@ -65,16 +72,3 @@ for item in data:
     except contentful_management.errors.APIRequestFailedError as e:
         print("API Request Failed:", e)
 
-
-# client = contentful_management.Client('gzhf2ey3l7ai','CT3w5uPMUT-cIwFpqMKq_UtbuCRyXYTPwn23QTybk_k')
-
-# with open('test.json') as f:
-#     data = json.load(f)
-
-# #prints out the existing entries in contentful committee memebers
-# for item in client.entries('gzhf2ey3l7ai', 'master', {'content_type': 'committee'}):
-#     print(getattr(item,'name'))
-
-# # prints out the json file names of committee members
-# for item in data:
-#     print(item['name'])
