@@ -5,7 +5,7 @@ client = contentful_management.Client('gzhf2ey3l7ai', 'CT3w5uPMUT-cIwFpqMKq_Utbu
 
 space = client.spaces().find('gzhf2ey3l7ai')
 
-content_type_id = 'your_content_type_id'
+content_type_id = 'Committee'
 
 with open('test.json') as f:
     data = json.load(f)
